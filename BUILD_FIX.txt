@@ -1,0 +1,6 @@
+ZADEN MVP 1.0 - Android build fix
+
+Fixed: Android Gradle Plugin upgraded from 8.1.0 to 8.1.1, which satisfies Flutter minimum AGP 8.1.1.
+Fixed: Kotlin plugin uses the matching org.jetbrains.kotlin.android plugin id/version.
+
+No app feature code was changed.
